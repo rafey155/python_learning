@@ -27,7 +27,7 @@ Write a program to find the maximum and minimum elements in a list.
 Write a program to count even and odd numbers in a list.
 Write a program to search an element in a list using a loop.
 
-# E. Pattern Printing (Important)
+# E. Pattern_Printing (Important)
 
 # Print the following pattern:
 *
