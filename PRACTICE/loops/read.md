@@ -13,7 +13,7 @@ Write a program to count the number of digits in a number.
 Write a program to calculate the sum of digits of a number.
 Write a program to reverse a number.
 
-# C. Loop with Conditions
+# C. Loop_with_Conditions
 Write a program to check whether a number is prime or not.
 Write a program to check whether a number is an Armstrong number.
 Write a program to check whether a number is a palindrome.
