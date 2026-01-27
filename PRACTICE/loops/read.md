@@ -6,7 +6,7 @@ Write a program to print even numbers from 1 to 50.
 Write a program to print odd numbers from 1 to 50.
 Take a number from the user and print its multiplication table.
 
-# B. Loop with Calculations
+# B. Loop_with_Calculations
 Write a program to find the sum of first n natural numbers.
 Write a program to find the factorial of a number using a loop.
 Write a program to count the number of digits in a number.
